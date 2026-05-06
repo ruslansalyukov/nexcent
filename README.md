@@ -6,4 +6,4 @@
 - SCSS,
 - JS
 
-[Смотреть демо](https://ruslansalyukov.github.io/nexcent/)
+[Смотреть демо](https://rscodeaero.github.io/nexcent/)
